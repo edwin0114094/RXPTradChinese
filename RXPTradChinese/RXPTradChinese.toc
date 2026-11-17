@@ -1,0 +1,11 @@
+## Interface: 11509, 38002, 50504, 120007, 120105, 16001
+## Title: RXP 繁體化 (顯示轉換)
+## Notes: Converts RestedXP guide text to Traditional Chinese as it is drawn.
+## Notes-zhTW: 在 RestedXP 把文字畫到畫面前，將簡體中文轉為繁體中文。不修改攻略資料。
+## Notes-zhCN: 在 RestedXP 把文字画到画面前，将简体中文转为繁体中文。不修改攻略数据。
+## Author: local
+## Version: 1.0
+## Dependencies: RXPGuides
+
+Data.lua
+Core.lua
